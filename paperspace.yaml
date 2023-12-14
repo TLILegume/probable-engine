@@ -2,7 +2,7 @@ apiVersion: v1
 # To disable the application change enabled: false
 enabled: true
 # The name of your project
-name: test_torch_deployment
+name: probable-engine
 # You should replace this with a Docker image you build
 image: paperspace/fastapi-hf-template-app:2023-06-20
 # Using integrations to bring in external resource
