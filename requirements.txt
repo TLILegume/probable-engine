@@ -1,0 +1,6 @@
+# Python dependencies
+torch==2.0.1
+transformers==4.35.2
+timm==0.9.7
+effdet==0.4.1
+pandas==2.1.0
